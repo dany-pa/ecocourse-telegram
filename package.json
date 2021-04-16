@@ -1,0 +1,17 @@
+{
+  "name": "ecocourse",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-schedule": "^2.0.0",
+    "node-telegram-bot-api": "0.51.0",
+    "pg": "^8.5.1"
+  }
+}
